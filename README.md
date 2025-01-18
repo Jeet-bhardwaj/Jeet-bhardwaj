@@ -53,3 +53,27 @@
 
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jeet-bhardwaj&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeet-bhardwaj&theme=radical&hide_border=false" alt="GitHub Streak Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet-bhardwaj&theme=radical&hide_border=false&layout=compact" alt="Top Languages" /> </div>
+
+---
+
+<h3 align="center">📣 Stay Connected!</h3>
+<p align="center">
+  <a href="https://twitter.com/jeetbhardwaj09" target="_blank">
+    <img align="center" src="https://img.shields.io/twitter/follow/jeetbhardwaj09?logo=twitter&style=flat" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/jeetbhardwaj" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/_jeet_bhardwaj_" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-Connect-purple?style=flat&logo=instagram" alt="Instagram" />
+  </a>
+</p>
+
+<p align="center">
+  <small>© 2025 Jeet Bhardwaj. All rights reserved.</small>
+</p>
+
+<p align="center">
+  <a href="#top">Back to top 🔝</a>
+</p>
+
